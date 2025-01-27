@@ -3,9 +3,13 @@ This repo is used to make an anomaly detection scheme for maritime pirate attack
 ## Dataset
 public dataset : (https://github.com/newzealandpaul/Maritime-Pirate-Attacks/tree/main)
 ## The Mathematics
+Equation
 $$f(x)= 2$$
+Equation
 $$g(x) = 2x$$
+Equation
 $$\frac{2}{x}$$
+Equation
 $$\frac{\partial h}{\partial x} = x$$
 $$\frac{\partial h}{\partial x} = h$$
 ## Anomaly Detection
