@@ -9,7 +9,7 @@ $$\frac{2}{x}$$
 $$\frac{\partial d}{\partial x}=f'(x)$$
 ## Anomaly Detection
 ![image](https://github.com/user-attachments/assets/430a0de9-2734-416a-a83a-6b5d6dc727a4)
-
+The result from this detection is shown below 
 ![image](https://github.com/user-attachments/assets/ccb6ce4f-6bd0-4de7-87e5-2d4c95eb1169)
 
 <img source = "output.png" width = "8000" height="auto">
