@@ -3,6 +3,7 @@ This repo is used to make an anomaly detection scheme for maritime pirate attack
 ## Dataset
 public dataset : (https://github.com/newzealandpaul/Maritime-Pirate-Attacks/tree/main)
 ## The Mathematicss
+$$f(x)= 2$$
 ## Anomaly Detection
 ![image](https://github.com/user-attachments/assets/430a0de9-2734-416a-a83a-6b5d6dc727a4)
 
