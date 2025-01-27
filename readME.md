@@ -6,8 +6,8 @@ public dataset : (https://github.com/newzealandpaul/Maritime-Pirate-Attacks/tree
 $$f(x)= 2$$
 $$g(x) = 2x$$
 $$\frac{2}{x}$$
-$$\frac{\partial d}{\partial x} = \partial x$$
-$$\frac{\partial h}{\partial x} = \partial h$$
+$$\frac{\partial h}{\partial x} = x$$
+$$\frac{\partial h}{\partial x} = h$$
 ## Anomaly Detection
 ![image](https://github.com/user-attachments/assets/430a0de9-2734-416a-a83a-6b5d6dc727a4)
 The result from this detection is shown below 
