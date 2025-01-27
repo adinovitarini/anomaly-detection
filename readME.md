@@ -11,6 +11,14 @@ $$\frac{2}{x}$$</p>
 <p></p>Equation
 $$\frac{\partial h}{\partial x} = x$$
 $$\frac{\partial h}{\partial x} = h$$</p>
+Here is a labeled equation:
+
+$$
+\label{eq:force}
+F = ma
+$$
+
+Referencing it: See Equation \(\eqref{eq:force}\).
 ## Anomaly Detection
 ![image](https://github.com/user-attachments/assets/430a0de9-2734-416a-a83a-6b5d6dc727a4)
 The result from this detection is shown below 
