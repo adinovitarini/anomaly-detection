@@ -3,4 +3,6 @@ This repo is used to make an anomaly detection scheme for maritime pirate attack
 ## Dataset
 public dataset : (https://github.com/newzealandpaul/Maritime-Pirate-Attacks/tree/main)
 ## Anomaly Detection
+![image](https://github.com/user-attachments/assets/ccb6ce4f-6bd0-4de7-87e5-2d4c95eb1169)
+
 <img source = "output.png" width = "8000" height="auto">
