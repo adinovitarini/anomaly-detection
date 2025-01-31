@@ -2,23 +2,7 @@
 This repo is used to make an anomaly detection scheme for maritime pirate attacks. I use the public dataset (url shown below) and try to build an autoencoder networks to make a presiction model. Basically, anomaly detection is a process of finding patterns or instances in a dataset that deviate significantly from the expected or “normal behavior”. Meanwhile,  
 ## Dataset
 public dataset : (https://github.com/newzealandpaul/Maritime-Pirate-Attacks/tree/main)
-## The Mathematics
-<p>Equation$$f(x)= 2$$</p>
-<p></p>Equation
-$$g(x) = 2x$$</p>
-<p></p>Equation
-$$\frac{2}{x}$$</p>
-<p></p>Equation
-$$\frac{\partial h}{\partial x} = x$$
-$$\frac{\partial h}{\partial x} = h$$</p>
-Here is a labeled equation:
 
-$$
-\label{eq:force}
-F = ma
-$$
-
-Referencing it: See Equation \(\eqref{eq:force}\).
 ## Anomaly Detection
 ![image](https://github.com/user-attachments/assets/430a0de9-2734-416a-a83a-6b5d6dc727a4)
 The result from this detection is shown below 
